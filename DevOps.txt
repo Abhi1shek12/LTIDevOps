@@ -1,0 +1,23 @@
+[10:15] Saranya Tr (Guest)
+Overview DevOps: DevOps -> Devlopment + operations - It is a Culture to promote devlopment and operations work collectively. Devlopment -> devlopers, testers operations -> 
+support engg, system engg , network engineer (to make all the confiuration to be available on respective environment)
+ - cultural change , approach - To overcome the challenges being faced in agile.  - DevOps one step ahead of agile process, DevOps makes the product delivery is fast than agile.
+ - DevOPs team should have knowlege on various automation tools like Git, Jenkins, maven, Junit, TestNG, Selenium etc 
+- Automate everything, right from devlopment, testing, deploy the build on prouction in faster and repeatable way. 
+
+req/user stories/enhancement/feedback --> devoper writes the code -->testing -->deploy app on production Why DevOps? 1. To make devlopment & operations team to work together
+
+2. without Devops, team may spend larger amount of time for devlopment, testing, design and deployment. After we introduced with Devops, time we spend for the project is ver less.
+
+3. Manually deploying the code on the production server, leads to human errors in production 
+Key Features of DevOps
+
+1. Automation
+
+2. Colloboration
+
+3. Integration Jenkins(continuous integration server) devlopment (code)--> code gets converted into jar/war file --> war file deployed on testing server -> testing team access the application and test it. build1 changes build1+changes 4. Configuration management DevOps Architecture: plan -> devlop -> deploy build -> test -> releaes -> monitor--> repeatable way
+
+
+Difference betweeb Agile & DevOps & traditional Model
+

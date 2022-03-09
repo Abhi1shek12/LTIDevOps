@@ -1,0 +1,109 @@
+
+DevOps LifeCycle: 1. Contin. devlopment:
+
+    - devlopers starts writing the code for requirement, we have lot of tools available for devlopment and for mintaining the code.  
+   Eg) Maven(build tool), Ant - devlopment tool
+
+        Code maintanance -> Git, SVN, subversion etc 
+
+2. Contin. Integration   
+  - main job which will be involved in DevOps lifecycle. Ex: code commited(From Eclipse)
+-> Git platform 
+-> integrated with Jenkins TestScript commits to Git platform
+-> integate with jenkins This process will go right from devlopment to till you release.
+ 
+3. Contin. Testing     
+  This phase where we find the defects/bugs continously.     
+  Tools -> selenium, junit, TestNg, Postman, RestAssured
+
+
+4. Contin. Monitoring     
+Keep monitor the entire devops process, to identify the problem areas and fix it.
+
+5. Contin. Feeback     
+- getting the feeback from everyone is most important activity as part of Devops process as it improves the devops process that we do, we able to product better version of build in future. 
+
+6. Contin. deployment     
+code will deployed/uploaded on productions sever.We have to ensure correct version of code is getting deployed on the server.    
+  tools -> Docker, puppet, Chef etc 
+
+7. Contin. operations Devops priniciples:
+
+1. Complete resposibility
+
+2. Coontinuous improvement 
+- be getting the feedback and monitor appln contin
+
+3. Automate everything
+
+4. customer centric action 
+- to make the customer satiisfies and for business growth
+
+5. Monitor and test everything
+
+6. Work as one team 
+-> work colloboratevely 
+
+Devops Tools: 
+
+1. Junit
+
+2. maven
+
+3. JIRA
+
+4. postman
+
+5. selenium
+
+6. Rest Assure
+
+7. git
+
+8. Eclipse
+
+9. Bamboo
+
+10. Git
+
+11. SVN
+
+12. Chef
+
+13. Ansible etc
+
+14. Jenkins.
+
+
+Activity: 1. create an account with https://github.com/
+
+2. What is Git? Why Git is neede? 
+
+What is Git? 
+      Git is a DevOps tool used for source code management.
+It is a free and open-source version control system used to handle small to very large projects efficiently. 
+Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+
+
+
+Tracks history
+Free and open source
+Supports non-linear development
+Creates backups
+Scalable
+Supports collaboration
+Branching is easier
+Distributed development.
+
+
+ Git workflow is divided into three states:
+
+Working directory - 
+- Modify files in your working directory,
+
+Staging area (Index) 
+ - Stage the files and add snapshots of them to your staging area.
+
+Git directory (Repository)
+ - Perform a commit that stores the snapshots permanently to your Git directory.
+   Checkout any existing version, make changes, stage them and commit.
